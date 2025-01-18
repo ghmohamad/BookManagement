@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "BookManagement": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIROMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:52744;http://localhost:52745"
+    }
+  }
+}

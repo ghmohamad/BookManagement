@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\farshad\\Desktop\\work\\.netcore9\\BookManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18AFAD2B-57B3-499A-80CA-0EB4EE199314}|BookManagement.csproj|c:\\users\\farshad\\desktop\\work\\.netcore9\\bookmanagement\\model\\table\\booktable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AFAD2B-57B3-499A-80CA-0EB4EE199314}|BookManagement.csproj|solutionrelative:model\\table\\booktable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AFAD2B-57B3-499A-80CA-0EB4EE199314}|BookManagement.csproj|c:\\users\\farshad\\desktop\\work\\.netcore9\\bookmanagement\\utility\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AFAD2B-57B3-499A-80CA-0EB4EE199314}|BookManagement.csproj|solutionrelative:utility\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AFAD2B-57B3-499A-80CA-0EB4EE199314}|BookManagement.csproj|c:\\users\\farshad\\desktop\\work\\.netcore9\\bookmanagement\\data\\bookdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AFAD2B-57B3-499A-80CA-0EB4EE199314}|BookManagement.csproj|solutionrelative:data\\bookdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AFAD2B-57B3-499A-80CA-0EB4EE199314}|BookManagement.csproj|c:\\users\\farshad\\desktop\\work\\.netcore9\\bookmanagement\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AFAD2B-57B3-499A-80CA-0EB4EE199314}|BookManagement.csproj|solutionrelative:data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookTable.cs",
+              "DocumentMoniker": "C:\\Users\\farshad\\Desktop\\work\\.netcore9\\BookManagement\\Model\\Table\\BookTable.cs",
+              "RelativeDocumentMoniker": "Model\\Table\\BookTable.cs",
+              "ToolTip": "C:\\Users\\farshad\\Desktop\\work\\.netcore9\\BookManagement\\Model\\Table\\BookTable.cs",
+              "RelativeToolTip": "Model\\Table\\BookTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:04:34.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookData.cs",
+              "DocumentMoniker": "C:\\Users\\farshad\\Desktop\\work\\.netcore9\\BookManagement\\Data\\BookData.cs",
+              "RelativeDocumentMoniker": "Data\\BookData.cs",
+              "ToolTip": "C:\\Users\\farshad\\Desktop\\work\\.netcore9\\BookManagement\\Data\\BookData.cs",
+              "RelativeToolTip": "Data\\BookData.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIA3wBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:43:18.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\farshad\\Desktop\\work\\.netcore9\\BookManagement\\Data\\UserData.cs",
+              "RelativeDocumentMoniker": "Data\\UserData.cs",
+              "ToolTip": "C:\\Users\\farshad\\Desktop\\work\\.netcore9\\BookManagement\\Data\\UserData.cs",
+              "RelativeToolTip": "Data\\UserData.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:37:39.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Crud.cs",
+              "DocumentMoniker": "C:\\Users\\farshad\\Desktop\\work\\.netcore9\\BookManagement\\Utility\\Crud.cs",
+              "RelativeDocumentMoniker": "Utility\\Crud.cs",
+              "ToolTip": "C:\\Users\\farshad\\Desktop\\work\\.netcore9\\BookManagement\\Utility\\Crud.cs",
+              "RelativeToolTip": "Utility\\Crud.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAvwFQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:31:42.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

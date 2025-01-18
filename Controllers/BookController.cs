@@ -18,6 +18,5 @@ namespace BookManagement.Controllers
         {
             return bookBusiness.GetBooks();
         }
-        
     }
 }
